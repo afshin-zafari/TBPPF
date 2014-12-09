@@ -1,0 +1,6 @@
+[submodule "DuctTeip"]
+	path = DuctTeip
+	url = https://github.com/afshin-zafari/DuctTeip.git
+[submodule "superglue"]
+	path = superglue
+	url = https://github.com/tillenius/superglue.git
